@@ -1,0 +1,7 @@
+C:\Users\VivoBook 15X\Desktop\C#\обезьянка\bin\Debug\обезьянка.exe.config
+C:\Users\VivoBook 15X\Desktop\C#\обезьянка\bin\Debug\обезьянка.exe
+C:\Users\VivoBook 15X\Desktop\C#\обезьянка\bin\Debug\обезьянка.pdb
+C:\Users\VivoBook 15X\Desktop\C#\обезьянка\obj\Debug\обезьянка.csproj.AssemblyReference.cache
+C:\Users\VivoBook 15X\Desktop\C#\обезьянка\obj\Debug\обезьянка.csproj.CoreCompileInputs.cache
+C:\Users\VivoBook 15X\Desktop\C#\обезьянка\obj\Debug\обезьянка.exe
+C:\Users\VivoBook 15X\Desktop\C#\обезьянка\obj\Debug\обезьянка.pdb
